@@ -1,3 +1,4 @@
+## Tools
 The following need to be installed in order to work properly:
 * [fastqc] - fastq quality checking tool
 * [STAR] - rna-seq alignment tool
