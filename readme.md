@@ -21,6 +21,10 @@ The cufflinks results can be seen in the `cufflinks_results` folder.
 The star results will be outputted in the folder that pipeline.sh resides.  
 This pipeline can take a long time as STAR can take a long time to run especially on large sets of data.
 
+## Sample Data
+[Reference ecoli genome]: https://www.ncbi.nlm.nih.gov/nuccore/U00096.3
+[Sample ecoli data]: http://sra.dnanexus.com/studies/SRP010412/runs
+
 [fastqc]: http://www.bioinformatics.babraham.ac.uk/projects/download.html
 [STAR]: https://github.com/alexdobin/STAR
 [cufflinks]: http://cole-trapnell-lab.github.io/cufflinks/install/
