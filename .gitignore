@@ -1,0 +1,12 @@
+.DS_Store
+*.fasta
+*.sam
+*.bam
+*.out
+*.fpkm_tracking
+*.txt
+inputs/*.fastq
+inputs/*.fastq.gz
+inputs/*.fasta
+*_results
+*_STARtmp
